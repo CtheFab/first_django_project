@@ -1,1 +1,1 @@
-var = "thid is a test file"
+var = "this is a test file"
